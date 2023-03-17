@@ -1,0 +1,41 @@
+body {
+  text-align: center;
+  background-color: #011627;
+  color: aliceblue;
+  border: 60px solid #2ec4b6;
+  border-top: none;
+
+  margin-top: 40px;
+  padding-top: 0;
+}
+
+h1 {
+  font-size: 37px;
+}
+h2 {
+  font-size: 33px;
+}
+p {
+  margin: 16px 0;
+  font-size: 30px;
+  padding: 43px;
+}
+
+.SignUp {
+  margin: 20px 0 43px;
+  font-size: 33px;
+  padding: 1px 6px;
+}
+
+input {
+  width: 299px;
+  height: 32px;
+}
+
+.btn {
+  width: 150px;
+  height: 80px;
+  border-radius: 30px;
+  margin: 4px 0;
+  background: #ff9f1c;
+}
